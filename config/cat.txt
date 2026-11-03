@@ -1,0 +1,528 @@
+manufacturing: production,automation,machinery,assembly,plants,process,factory,equipment,supply-chain,quality,materials,workforce,operations,lean,maintenance,expansion,retrofitting,distribution,modernization,inspection,precision,upgrade,smart-factory,export,component,regulation,shutdown,forecast,upskilling
+
+manufacturing|Aerospace & Defense: aircraft manufacturing,defense systems,avionics,missile production,unmanned aerial vehicles (UAVs),aerospace components,jet engines,military technology,space exploration,satellite systems
+manufacturing|Automotive: vehicle assembly,electric vehicles (EVs),automotive parts,internal combustion engine,transmission systems,car manufacturing,auto components,battery packs,autonomous driving,chassis systems
+manufacturing|Chemicals: petrochemicals,industrial solvents,polymers,specialty chemicals,chemical synthesis,fertilizers,chemical processing,surfactants,acids & bases,dyes and pigments
+manufacturing|Computer & Electronics: circuit boards,semiconductors,microprocessors,sensors,embedded systems,electronics assembly,computer hardware,PCB manufacturing,capacitors,consumer electronics
+manufacturing|Consumer Goods: packaged goods,household appliances,personal care products,electronics,cleaning supplies,fast-moving consumer goods (FMCG),kitchenware,grooming products,storage containers,home care products
+manufacturing|Apparel & Textiles: textile production,garment manufacturing,fabric weaving,fashion industry,clothing design,dyeing and finishing,cotton and synthetic fibers,apparel brands,embroidery,knitwear
+manufacturing|Food & Beverage: food processing,beverage bottling,dairy products,packaged foods,snacks & confectionery,frozen foods,food safety,meat processing,canned goods,bakery manufacturing
+manufacturing|Furniture & Wood Products: woodwork,cabinetry,upholstery,timber processing,office furniture,home furnishings,particle board,modular furniture,veneer products,ergonomic design
+manufacturing|Heavy Machinery & Equipment: industrial machinery,construction equipment,hydraulic systems,engine components,machine tools,power generators,mining equipment,compressors,loaders and excavators,CNC machinery
+manufacturing|Medical Devices & Pharmaceuticals: surgical instruments,diagnostic devices,drug manufacturing,biotechnology,pharma formulations,medical equipment,implantable devices,regulatory compliance (FDA, CE),vaccine production,laboratory devices
+manufacturing|Primary Metals: steel production,aluminum smelting,metal casting,mining and refining,iron ore,copper extraction,foundry operations,metal alloys,blast furnace,metal sheets
+manufacturing|Fabricated Metal Products: metal stamping,welding & fabrication,metal structures,fasteners and fittings,precision metalwork,steel fabrication,sheet metal,wire products,metal enclosures,forging
+manufacturing|Plastics & Rubber: polymer molding,plastic injection,thermoplastics,rubber extrusion,elastomers,tire manufacturing,PVC and PE,synthetic rubber,blow molding,latex processing
+manufacturing|Paper & Pulp: paper mills,wood pulp,packaging paper,recycled paper,paperboard,kraft process,tissue paper,newsprint,printing paper,corrugated packaging
+manufacturing|Semiconductors: silicon wafers,chip fabrication,photolithography,integrated circuits,cleanroom manufacturing,transistor design,SoCs (System-on-Chip),fabless semiconductor,IC packaging,wafer testing
+
+
+business: accounting,advertising,marketing,consulting,customer-service,data,analytics,e-commerce,finance,franchise,hr,import,legal,logistics,management,market-research,operations,procurement,project-management,sales,startup,strategy,taxation,training,venture-capital,growth,compliance,leadership,partnership,development
+
+business|Accounting: financial reporting,audits,bookkeeping,GAAP,accounts payable,accounts receivable,tax filing,ledger reconciliation,balance sheets,payroll accounting
+business|Advertising & Marketing: brand strategy,digital campaigns,content marketing,PPC advertising,SEO optimization,influencer marketing,media buying,customer targeting,creative agency,product promotion
+business|Business Services: outsourcing,B2B solutions,administrative support,IT services,facility management,business process automation,managed services,corporate solutions,compliance services,back-office operations
+business|Consulting: management consulting,business advisory,operational improvement,strategy consulting,client engagement,industry insights,transformation consulting,risk advisory,consulting firms,process optimization
+business|Customer Service: customer support,service excellence,helpdesk operations,call center,client satisfaction,CRM tools,customer feedback,technical support,service recovery,live chat
+business|Data Analytics: big data,predictive modeling,business intelligence,data visualization,machine learning,KPIs,dashboards,SQL analysis,customer insights,data mining
+business|E-commerce: online store,digital storefront,payment gateway,product listings,cart abandonment,order fulfillment,e-commerce logistics,conversion rate,Shopify,dropshipping
+business|Entrepreneurship: startup funding,business pitch,founders,MVP (minimum viable product),venture building,bootstrapping,accelerator programs,angel investor,entrepreneurial mindset,innovation hub
+business|Event Management: event planning,corporate events,venue booking,conference coordination,guest management,event promotion,logistics planning,on-site execution,event ROI,sponsorship deals
+business|Finance: capital markets,financial planning,budgeting,investment analysis,financial risk,equity financing,asset management,ROI,banking services,corporate finance
+business|Franchise: franchise agreement,brand licensing,royalty fees,franchisee support,territory exclusivity,franchisor,multi-unit ownership,franchise marketing,initial investment,franchise disclosure
+business|Human Resources (HR): talent acquisition,HR policies,employee engagement,payroll management,performance reviews,benefits administration,HR software,labor laws,diversity & inclusion,organizational development
+business|Import & Export: trade compliance,customs documentation,international shipping,tariffs,freight forwarding,global trade,export licenses,import duties,incoterms,cross-border logistics
+business|Legal Services: corporate law,contract drafting,intellectual property,litigation,legal compliance,legal advisory,mergers & acquisitions,employment law,legal documentation,legal counsel
+business|Logistics & Supply Chain: inventory management,freight logistics,last-mile delivery,supply chain optimization,demand forecasting,third-party logistics (3PL),order tracking,warehouse management,fleet operations,cold chain logistics
+business|Management: leadership skills,business strategy,operational control,team coordination,executive decision-making,performance KPIs,strategic planning,stakeholder management,corporate governance,productivity tools
+business|Market Research: consumer insights,competitive analysis,focus groups,market segmentation,survey data,trend analysis,product testing,market intelligence,brand perception,sampling methods
+business|Operations: process efficiency,supply chain operations,lean management,operational strategy,resource planning,standard operating procedures,cost control,logistics coordination,workflow automation,operations audit
+business|Procurement: sourcing strategy,vendor management,request for proposal (RFP),supply contracts,procurement process,cost negotiation,purchase order,supplier onboarding,inventory procurement,procurement policy
+business|Project Management: project lifecycle,Gantt charts,stakeholder communication,resource allocation,Agile methodology,project deliverables,PMO (Project Management Office),milestones tracking,risk mitigation,project budgeting
+business|Public Relations: media relations,crisis communication,press releases,corporate communication,PR campaigns,brand image,spokesperson training,influencer outreach,public statements,reputation management
+business|Real Estate: property investment,commercial leasing,real estate agents,property management,realty transactions,residential development,real estate valuation,land acquisition,realty market trends,real estate listings
+business|Risk Management: risk assessment,compliance audit,internal controls,operational risks,insurance coverage,business continuity,regulatory risks,fraud detection,financial risk,cyber risk
+business|Sales: lead generation,sales pipeline,conversion strategy,CRM integration,B2B sales,cold calling,sales training,client acquisition,product demo,sales quotas
+business|Startups: early-stage funding,incubation,founder pitch,business model,startup ecosystem,pivot strategy,product-market fit,angel round,seed capital,startup accelerator
+business|Strategy: competitive positioning,strategic roadmap,SWOT analysis,strategic goals,business transformation,market entry,growth strategy,resource allocation,corporate objectives,planning horizon
+business|Taxation: income tax,GST/VAT,tax compliance,tax filing deadlines,tax deductions,international taxation,tax audit,corporate tax planning,indirect tax,tax regulations
+business|Training & Development: employee training,skill development,learning management systems (LMS),upskilling,onboarding programs,leadership training,soft skills training,professional certification,career advancement,training modules
+business|Venture Capital: VC funding,term sheet,equity stake,venture round,portfolio companies,Series A/B/C funding,exit strategy,investor pitch,valuation metrics,cap table
+
+
+
+
+finance: banking,investment,asset-management,hedge-funds,private-equity,fintech,insurance,accounting,auditing,wealth,advisory,capital-markets,risk,treasury,taxation,corporate-finance,retail-finance,mortgage,credit-rating,payment,compliance,trading,pension,real-estate-finance,crowdfunding,microfinance,analytics,esg,derivatives,brokerage
+
+finance|Banking: retail banking,commercial banking,deposits,loans & advances,credit cards,ATM services,core banking,mobile banking,interest rates,branch operations
+finance|Investment Banking: mergers & acquisitions (M&A),IPO advisory,capital raising,debt issuance,equity underwriting,financial modeling,deal structuring,investment analysis,DCF valuation,pitchbook
+finance|Asset Management: portfolio diversification,mutual funds,fund management,investment portfolio,asset allocation,ETFs,fund performance,institutional investors,asset managers,NAV (Net Asset Value)
+finance|Hedge Funds: long/short strategies,alternative investments,hedge fund manager,market-neutral,arbitrage strategies,leverage,risk-adjusted returns,performance fees,private funds,fund of funds
+finance|Private Equity: leveraged buyouts (LBOs),portfolio companies,growth equity,capital injection,fund lifecycle,exit strategy,limited partners (LPs),due diligence,buyout deals,PE firms
+finance|Venture Capital: startup funding,early-stage investment,term sheet,seed capital,Series A/B/C,VC firm,equity dilution,founder pitch,venture round,cap table
+finance|Financial Technology (FinTech): digital wallets,peer-to-peer lending,blockchain,robo-advisors,neobanks,payment gateways,open banking,buy now pay later (BNPL),mobile payments,fintech startups
+finance|Insurance: premium payment,policyholder,claim settlement,underwriting,risk coverage,term insurance,health insurance,general insurance,reinsurance,insurance broker
+finance|Accounting: journal entries,financial statements,general ledger,trial balance,accounts receivable,accounts payable,cost accounting,revenue recognition,GAAP,accounting cycle
+finance|Auditing: internal audit,statutory audit,audit report,financial controls,audit trail,compliance audit,risk-based audit,forensic audit,audit planning,external auditor
+finance|Wealth Management: financial planning,estate planning,investment advisory,high-net-worth individuals (HNWI),portfolio strategy,tax efficiency,retirement planning,discretionary account,wealth advisor,asset protection
+finance|Financial Advisory: investment strategy,retirement advice,portfolio rebalancing,financial goals,advisory fees,certified financial planner (CFP),tax planning,financial risk assessment,financial health,budgeting advice
+finance|Capital Markets: primary market,secondary market,bond issuance,stock trading,market liquidity,capital raising,securities issuance,debt markets,equity markets,market makers
+finance|Risk Management: credit risk,market risk,operational risk,risk mitigation,risk models,Basel III,VaR (Value at Risk),enterprise risk management,insurance risk,stress testing
+finance|Treasury: cash management,liquidity planning,forex risk,treasury operations,bank reconciliation,working capital,funding strategy,interbank transactions,treasury management system,hedging
+finance|Taxation: corporate tax,income tax,tax planning,tax compliance,GST/VAT,tax incentives,double taxation,tax advisory,withholding tax,transfer pricing
+finance|Corporate Finance: capital budgeting,cost of capital,capital structure,dividend policy,internal rate of return (IRR),financial forecasting,strategic investment,M&A finance,budgeting,corporate restructuring
+finance|Retail Finance: consumer loans,credit cards,personal banking,savings products,auto loans,home loans,digital banking,EMI financing,personal finance tools,customer credit
+finance|Mortgage & Lending: mortgage origination,home equity loan,refinancing,interest-only loans,lending criteria,fixed-rate mortgage,loan-to-value ratio,mortgage-backed securities,credit underwriting,foreclosure
+finance|Credit Rating Agencies: credit scoring,creditworthiness,rating outlook,bond ratings,agency review,rating criteria,investment grade,credit watch,rating downgrade,sovereign ratings
+finance|Payment Systems: digital payments,RTGS/NEFT,UPI,ACH transfers,card processing,POS systems,contactless payment,mobile wallet,transaction settlement,cross-border payment
+finance|Financial Compliance: anti-money laundering (AML),know your customer (KYC),regulatory reporting,financial conduct authority,compliance audits,FATCA,financial crime,sanctions screening,data privacy compliance,SOX compliance
+finance|Stock Exchanges: stock listings,trading volume,IPOs,equity market,exchange-traded funds (ETFs),market capitalization,indices (e.g., S&P 500, Nifty 50),circuit breakers,market volatility,trading halt
+finance|Trading & Brokerage: stock trading,derivatives trading,brokerage account,trading platform,commission fees,margin trading,order types (market, limit),trade execution,options and futures,technical analysis
+finance|Pension Fund: retirement benefits,pension contributions,defined benefit plan,defined contribution plan,pension fund manager,annuity,pension portfolio,actuarial valuation,long-term investment,pension reform
+finance|Real Estate Finance: REITs,real estate investment,commercial mortgage,property valuation,construction finance,leaseback arrangements,rental yield,land financing,real estate lending,capital stack
+finance|Crowdfunding: equity crowdfunding,donation-based crowdfunding,campaign goal,reward tiers,investor pool,peer funding,startup campaigns,platform fees,crowdfunding platform,project backers
+finance|Microfinance: small loans,group lending,financial inclusion,rural finance,microcredit,interest-free lending,low-income borrowers,micro-insurance,micro-savings,development finance
+finance|Financial Analytics: financial modeling,KPI tracking,profitability analysis,dashboard reports,cost-benefit analysis,forecasting models,variance analysis,financial ratios,Excel/Power BI,decision support
+finance|ESG & Sustainable Finance: green bonds,ESG reporting,climate risk,sustainable investment,carbon disclosure,ethical investing,responsible finance,impact investing,social governance,sustainability indices
+
+
+retail: ecommerce,store,inventory,supply-chain,checkout,loyalty,promotion,omnichannel,mall,outlet,franchise,returns,stock,pricing,discount,shopper,point-of-sale,personalization,merchandise,marketplace,expansion,distribution,brand,payment,store-layout,restocking,experience,retail-tech,analytics
+
+retail|E-commerce: online shopping,digital storefront,cart abandonment,checkout optimization,mobile commerce,order fulfillment,payment gateway,dropshipping,product listings,e-commerce platform
+retail|Brick-and-Mortar Stores: in-store experience,retail foot traffic,point of sale (POS),visual merchandising,retail shelf,store layout,customer walk-ins,inventory display,store signage,retail staff
+retail|Grocery & Supermarkets: fresh produce,food aisle,grocery delivery,supermarket chains,perishables,retail pricing,grocery inventory,bulk goods,private label products,loyalty cards
+retail|Department Stores: multi-category retail,branded counters,store promotions,seasonal collections,floor layout,clearance sales,anchor tenants,customer loyalty programs,flagship store,in-store signage
+retail|Apparel & Fashion Retail: clothing racks,fashion trends,seasonal fashion,size charts,fitting rooms,apparel collections,fashion retail chains,designer brands,fashion retail POS,return policy
+retail|Consumer Electronics: gadgets,tech accessories,device bundles,electronics warranty,product demos,in-store pickup,smart devices,electronics retail chain,tech showroom,mobile & laptop sales
+retail|Home Improvement & Furniture: DIY tools,interior decor,modular furniture,home furnishings,renovation products,furniture delivery,store pickup,sofa and bedding,appliance retail,shelving systems
+retail|Luxury Retail: premium brands,high-end boutiques,luxury shopping,personalized service,exclusive products,brand showroom,limited edition,concierge retail,luxury segment,private client services
+retail|Beauty & Personal Care: skincare,cosmetics,salon products,fragrance counter,makeup brands,beauty subscription boxes,grooming tools,personal hygiene,beauty influencer marketing,cruelty-free products
+retail|Sporting Goods: athletic wear,outdoor equipment,gym gear,team sports gear,fitness apparel,sports shoes,cycling equipment,branded sportswear,home gym products,adventure sports retail
+retail|Convenience Stores: quick snacks,packaged food,24/7 stores,fuel station retail,cold beverages,everyday essentials,impulse buys,neighborhood store,grab-and-go items,point-of-sale counter
+retail|Automotive Retail: car accessories,auto parts,vehicle maintenance products,in-store auto service,tire sales,oil & lubricants,dashboard electronics,aftermarket products,automotive tools,vehicle retail chains
+retail|Online Marketplaces: third-party sellers,platform commission,seller dashboard,marketplace logistics,product reviews,buyer protection,seller ratings,cross-border selling,multi-vendor setup,marketplace app
+retail|Discount Stores: bargain pricing,low-cost products,clearance items,budget brands,discount bins,off-price retail,store markdowns,outlet items,private labels,fast turnover inventory
+retail|Warehouse Clubs: bulk buying,membership model,large packaging,club pricing,limited SKU strategy,self-service retail,in-store warehouse,member-only discounts,inventory pallets,storewide savings
+retail|Pharmacy Retail: over-the-counter (OTC),prescription drugs,pharmacist consultation,wellness products,health supplements,refill reminder,pharmacy loyalty card,in-store clinics,personal care items,drug store chain
+retail|Footwear Retail: shoe fitting,footwear brands,seasonal footwear,athletic shoes,formal shoes,sizing chart,insole comfort,footwear promotions,shoe rack display,return and exchange
+retail|Toy & Hobby Stores: action figures,board games,DIY kits,children’s toys,learning tools,craft supplies,remote control toys,puzzle games,seasonal toys,educational toys
+retail|Bookstores: bestsellers,fiction/non-fiction,author signings,in-store reading events,book clubs,literary genres,academic books,e-book vouchers,bookstore cafe,paperback & hardcovers
+retail|Pet Supplies Retail: pet food,grooming supplies,aquarium products,pet toys,collars and leashes,pet apparel,pet care guides,pet beds,vet-approved products,pet adoption events
+retail|Jewelry & Accessories: fine jewelry,fashion accessories,watches & timepieces,earrings & necklaces,jewelry display cases,gemstone certification,ring sizing,bridal jewelry,limited editions,custom engraving
+retail|Specialty Retail: niche products,boutique offerings,curated collections,unique inventory,artisanal items,exclusive brands,specialty store chains,product personalization,high-touch service,in-store experience
+retail|Omnichannel Retail: unified shopping experience,buy online pick up in store (BOPIS),cross-channel marketing,multi-touchpoint retail,integrated inventory,customer journey mapping,real-time inventory sync,seamless returns,order tracking,channel optimization
+retail|Retail Technology: self-checkout,in-store analytics,RFID tracking,mobile POS,AR/VR shopping,electronic shelf labels,digital signage,smart mirrors,queue management,retail AI
+retail|Point of Sale Solutions: POS terminals,billing software,contactless payments,sales tracking,customer receipt,POS hardware,cloud POS,real-time analytics,POS integration,inventory sync
+retail|Supply Chain & Inventory Management: stock replenishment,demand forecasting,warehouse logistics,SKU tracking,safety stock,inventory turnover,order management system (OMS),just-in-time inventory,supply chain visibility,barcode systems
+retail|Direct-to-Consumer (DTC): brand-owned stores,subscription model,customer acquisition cost (CAC),lifetime value (LTV),first-party data,social commerce,direct shipping,digital brand experience,influencer marketing,customer retention
+retail|Franchise Retail: franchise model,royalty fees,brand licensing,franchisee support,multi-unit operators,franchise agreement,onboarding & training,territory allocation,store compliance,franchise marketing
+retail|Retail Analytics: sales dashboard,shopper insights,foot traffic analysis,customer segmentation,basket analysis,pricing optimization,churn prediction,retail KPIs,analytics platform,purchase patterns
+retail|Seasonal & Holiday Retail: holiday promotions,seasonal inventory,Black Friday,Diwali/Christmas sales,festive campaigns,gift sets,limited-time offers,end-of-season sale,shopping surge,themed merchandising
+
+
+logistics: shipping,freight,warehouse,supply-chain,delivery,inventory,transportation,maritime,air-cargo,rail,road,logistics-tech,courier,reverse,3pl,4pl,intermodal,customs,fleet,route,distribution,fulfillment,analytics,packaging,port,ecommerce,international,brokerage
+
+logistics|Freight Forwarding: cargo consolidation,international shipping,freight booking,customs clearance,freight documentation,multimodal transport,freight quotations,freight schedules,bill of lading,freight agent
+logistics|Warehousing: storage solutions,warehouse automation,pallet racking,inventory control,warehouse layout,inbound/outbound logistics,order picking,warehouse management system (WMS),warehouse capacity,goods receiving
+logistics|Supply Chain Management: demand planning,supplier collaboration,supply chain visibility,logistics integration,procurement strategy,end-to-end supply chain,SCOR model,network optimization,supply chain risk,supply chain resilience
+logistics|Last Mile Delivery: doorstep delivery,delivery scheduling,real-time tracking,last mile optimization,delivery window,failed delivery,package scanning,delivery personnel,customer drop-off,urban logistics
+logistics|Cold Chain Logistics: temperature-controlled transport,refrigerated trucks,pharma logistics,cold storage,temperature monitoring,perishables logistics,freezer warehousing,cold chain integrity,thermal packaging,cryogenic shipping
+logistics|Inventory Management: stock levels,cycle counting,SKU tracking,reorder point,inventory turnover,safety stock,stockouts,inventory software,barcode scanning,warehouse inventory
+logistics|Transportation Management: route planning,carrier selection,transportation cost,shipment tracking,TMS (transportation management system),freight scheduling,transit time,delivery efficiency,load optimization,logistics network
+logistics|Maritime Shipping: ocean freight,container vessels,port handling,shipping lines,container tracking,IMO regulations,freight rates,maritime routes,vessel schedule,bill of lading
+logistics|Air Cargo: air freight,cargo airlines,air waybill,time-sensitive delivery,airport logistics,express air freight,IATA compliance,cargo handling,volumetric weight,temperature-sensitive cargo
+logistics|Rail Freight: intermodal containers,freight wagons,bulk rail transport,rail yard,railcar scheduling,cross-border rail,rail logistics,cargo trains,railway terminals,freight corridors
+logistics|Trucking & Road Transport: long-haul trucking,truckload (FTL/LTL),trucking fleet,fuel optimization,driver hours,GPS tracking,transport permits,trucking insurance,freight routes,delivery truck
+logistics|Logistics Technology (LogTech): route optimization software,AI in logistics,blockchain logistics,IoT tracking,fleet telematics,warehouse robots,logistics SaaS,digital freight matching,cloud logistics platforms,automated dispatch
+logistics|Courier & Express Services: parcel tracking,express shipping,same-day delivery,courier franchise,package scanning,on-demand delivery,shipment pickup,last mile courier,express network,logistics partner
+logistics|Reverse Logistics: product returns,RMA process,recycling logistics,refurbishing,returns management,reverse supply chain,restocking,end-of-life handling,warranty returns,asset recovery
+logistics|3PL (Third-Party Logistics): outsourced logistics,contract warehousing,freight management,3PL provider,value-added services,order fulfillment,logistics outsourcing,scalable logistics,warehouse as a service,B2B logistics
+logistics|4PL (Fourth-Party Logistics): supply chain orchestration,logistics consultancy,end-to-end logistics,4PL provider,integrated logistics partner,neutral logistics management,logistics optimization,multi-3PL coordination,strategic logistics,data-driven logistics
+logistics|Intermodal Transport: containerized shipping,multimodal logistics,modal shift,intermodal hub,drayage services,rail-road connectivity,seamless transfer,intermodal network,transit coordination,container interchange
+logistics|Customs Brokerage: import/export compliance,customs clearance,HS code classification,tariff calculation,bonded warehouse,customs documentation,clearance delays,trade regulations,import duty,export licensing
+logistics|Fleet Management: vehicle tracking,fleet maintenance,driver behavior monitoring,fleet scheduling,fuel usage monitoring,telematics systems,route assignment,fleet safety,fleet telematics,asset tracking
+logistics|Route Optimization: delivery path planning,multi-stop routing,GPS navigation,traffic forecasting,delivery efficiency,AI route planning,time window constraints,real-time rerouting,geofencing,fuel-efficient routes
+logistics|Cross-Docking: direct shipment,transfer hub,minimal storage,inbound-outbound coordination,cross-dock terminal,dock scheduling,inventory bypass,rapid sorting,staging area,freight consolidation
+logistics|Fulfillment Services: pick and pack,order processing,e-commerce fulfillment,packing stations,fulfillment SLA,real-time inventory,shipping label generation,order accuracy,packaging solutions,fulfillment center
+logistics|Logistics Analytics: freight cost analysis,delivery performance metrics,inventory KPIs,predictive logistics,data-driven logistics,shipment heatmaps,warehouse performance,logistics dashboards,customer delivery insights,supply chain data
+logistics|Packaging & Crating: protective packaging,export crating,custom crates,eco-friendly packaging,packaging materials,damage prevention,packing line,industrial packaging,foam inserts,packaging compliance
+logistics|Port Operations: cargo handling,container terminal,berth scheduling,port congestion,stevedoring services,customs inspection,port automation,ship unloading,harbor logistics,port throughput
+logistics|Distribution Centers: regional hub,fulfillment node,centralized storage,high-volume sorting,outbound dispatch,order aggregation,DC layout optimization,cross-docking facility,distribution planning,multi-zone picking
+logistics|E-commerce Logistics: warehouse automation,order accuracy,delivery speed,reverse logistics,fulfillment SLA,shipping partners,packaging automation,returns processing,inventory visibility,e-commerce carrier
+logistics|International Logistics: cross-border trade,global freight forwarding,international compliance,duty and tariffs,international shipping terms (INCOTERMS),global warehouse network,transit insurance,customs regulations,import/export logistics,global distribution
+logistics|Bulk & Tanker Logistics: liquid logistics,tanker trucks,bulk container,ISO tank,chemical logistics,petroleum transport,dry bulk shipping,commodity logistics,hazardous material handling,silo transport
+logistics|Freight Brokerage: carrier negotiation,freight quotes,load board,freight scheduling,logistics intermediaries,shipper-carrier matching,spot rate booking,broker liability,carrier compliance,brokerage platform
+
+
+energy: oil-gas,renewable,solar,wind,hydro,nuclear,bioenergy,geothermal,storage,battery,power-generation,transmission,smart-grid,efficiency,trading,infrastructure,refining,shale,utility,grid,carbon,hydrogen,clean,consulting,analytics,fossil,alternative,regulation
+
+energy|Oil & Gas: crude oil,natural gas,upstream exploration,drilling rigs,petroleum reserves,refinery operations,oil pipelines,LNG terminals,fossil fuel extraction,offshore platforms
+energy|Renewable Energy: green energy,renewable sources,clean energy transition,sustainable power,renewable capacity,zero emissions,decarbonization,net zero targets,alternative energy,clean power generation
+energy|Solar Power: photovoltaic panels,solar farms,rooftop solar,solar inverters,solar tracking systems,solar PV,solar irradiance,off-grid solar,solar energy storage,net metering
+energy|Wind Energy: wind turbines,offshore wind,onshore wind,wind farm development,turbine blades,wind power capacity,wind energy conversion,grid integration,wind speed assessment,renewable wind generation
+energy|Hydropower: hydroelectric dams,run-of-river systems,reservoir storage,turbine rotation,pumped storage,hydroelectric plants,river flow control,hydropower generation,water turbines,energy from water
+energy|Nuclear Energy: nuclear fission,uranium enrichment,nuclear reactors,nuclear waste,pressurized water reactor (PWR),nuclear safety,reactor core,radiation shielding,atomic energy,nuclear decommissioning
+energy|Bioenergy: biomass,biofuels,biogas,ethanol production,algae fuel,waste-to-energy,anaerobic digestion,organic feedstock,biodiesel,carbon-neutral energy
+energy|Geothermal Energy: geothermal wells,heat pumps,deep-earth heat,geothermal plants,volcanic heat zones,hot water reservoirs,sustainable geothermal,binary cycle plant,geothermal steam,underground heat extraction
+energy|Energy Storage: energy reserves,battery backup,grid storage,pumped hydro storage,thermal energy storage,flywheels,compressed air energy storage (CAES),utility-scale storage,energy arbitrage,backup power systems
+energy|Battery Technology: lithium-ion batteries,battery lifespan,energy density,battery chemistry,fast charging,battery recycling,solid-state batteries,battery degradation,anode and cathode,electric storage solutions
+energy|Power Generation: power plants,base load generation,peak load management,thermal power,combined cycle,electricity production,energy output,generation capacity,steam turbines,co-generation (CHP)
+energy|Transmission & Distribution: power lines,electrical grid,substations,high-voltage transmission,load balancing,T&D losses,grid connectivity,transmission towers,smart meters,distribution networks
+energy|Smart Grid: intelligent grid,real-time monitoring,grid modernization,demand response,decentralized power,advanced metering infrastructure (AMI),smart inverters,load forecasting,IoT in energy,grid digitization
+energy|Energy Efficiency: energy audits,efficient appliances,LED lighting,building insulation,energy conservation,energy management systems (EMS),zero-energy buildings,energy star rating,power factor optimization,HVAC efficiency
+energy|Energy Trading: power purchase agreements (PPAs),energy markets,electricity pricing,carbon credits,energy futures,spot pricing,grid balancing markets,renewable energy certificates (RECs),trading platforms,wholesale electricity
+energy|Energy Infrastructure: transmission lines,substations,energy hubs,grid expansion,infrastructure investment,energy corridors,regional interconnectors,energy transition projects,utility-scale facilities,energy pipelines
+energy|LNG (Liquefied Natural Gas): LNG terminals,regasification,cryogenic tanks,LNG shipping,liquefaction plants,LNG supply chain,LNG export/import,gas carriers,spot LNG pricing,LNG bunkering
+energy|Refining & Petrochemicals: crude refining,petrochemical plants,downstream processing,distillation units,olefins and aromatics,refinery output,chemical feedstock,refinery margins,fuel additives,catalytic cracking
+energy|Offshore Drilling: deepwater rigs,subsea equipment,offshore platforms,marine drilling,floating production units,blowout preventers,ocean bed exploration,offshore wellhead,undersea pipelines,FPSOs (Floating Production Storage & Offloading)
+energy|Shale Energy: hydraulic fracturing (fracking),shale gas,shale oil,horizontal drilling,tight formations,unconventional reserves,shale basins,well completions,proppants,basin production
+energy|Utility Companies: electricity providers,public utilities,utility rates,service area,power distribution,customer billing,grid operators,energy retailers,service reliability,utility-scale projects
+energy|Grid Management: load balancing,demand forecasting,grid control centers,real-time grid monitoring,outage management,frequency regulation,grid capacity planning,grid resilience,SCADA systems,power dispatch
+energy|Electric Power: electricity supply,kilowatt-hour (kWh),power grid,energy usage,generation and load,electric utility,alternating current (AC),energy demand,electrical efficiency,power reliability
+energy|Carbon Capture & Storage: CO₂ sequestration,carbon pipelines,CCS technology,post-combustion capture,underground storage,carbon capture facilities,carbon offset,geological storage,carbon utilization,emissions reduction
+energy|Hydrogen Energy: green hydrogen,hydrogen fuel cells,electrolysis,hydrogen storage,hydrogen pipelines,hydrogen refueling,low-carbon hydrogen,hydrogen infrastructure,hydrogen economy,hydrogen production
+energy|Clean Energy Technology: renewable innovation,low-carbon tech,energy transition tools,clean tech startups,carbon-neutral solutions,electrification,sustainable grid,green infrastructure,energy innovation,emission reduction technologies
+energy|Energy Consulting: energy audits,policy advisory,market analysis,feasibility studies,utility consulting,power procurement strategy,regulatory compliance,energy transition roadmap,energy due diligence,energy modeling
+energy|Energy Analytics: energy data insights,consumption patterns,grid performance analytics,forecasting models,load analytics,energy dashboards,predictive maintenance,usage optimization,smart metering data,energy benchmarking
+energy|Fossil Fuels: coal mining,oil refining,gas-fired plants,hydrocarbon reserves,fossil fuel dependency,fossil-based generation,carbon emissions,fossil energy consumption,thermal power plants,fossil fuel subsidies
+energy|Alternative Fuels: ethanol fuel,biodiesel,compressed natural gas (CNG),synthetic fuels,hydrogen-based fuels,e-fuels,algae fuels,waste-derived fuels,renewable diesel,low-emission fuels
+
+
+education: k12,higher-education,edtech,online,vocational,training,test-prep,language,stem,arts,humanities,distance-learning,publishing,lms,early-childhood,adult,assessment,tutoring,curriculum,consulting,mooc,continuing,policy,administration,research,teacher-training,content,analytics,homeschool
+
+education|K-12 Education: primary education,middle school curriculum,high school syllabus,standardized testing,student-teacher ratio,school districts,education boards,classroom learning,child development,school enrollment
+education|Higher Education: universities,colleges,academic degrees,undergraduate programs,graduate studies,research institutions,accreditation,admissions process,campus life,alumni network
+education|EdTech: education technology,digital classrooms,interactive learning tools,AI in education,gamified learning,edtech startups,adaptive learning platforms,personalized learning,virtual learning environments,mobile learning apps
+education|Online Learning: virtual courses,e-learning platforms,remote education,self-paced learning,web-based classes,digital learning tools,video lectures,online certification,asynchronous learning,virtual classrooms
+education|Vocational Training: skill development,trade schools,hands-on training,job-ready skills,apprenticeships,technical institutes,practical education,industry-specific training,vocational diplomas,employment-oriented courses
+education|Corporate Training: employee development,workplace learning,onboarding programs,leadership training,compliance training,LMS platforms,internal training modules,professional development,performance improvement,upskilling
+education|Test Preparation: exam coaching,competitive exams,entrance test prep,standardized test prep,mock tests,practice papers,timed assessments,tutoring centers,test strategies,score improvement
+education|Language Learning: foreign languages,ESL (English as a Second Language),language apps,multilingual education,pronunciation training,grammar and vocabulary,conversational fluency,TOEFL/IELTS prep,bilingual education,online language tutors
+education|Special Education: individualized education plans (IEP),learning disabilities,inclusive education,autism education,assistive technology,special needs curriculum,behavioral therapy,accessibility in learning,speech and occupational therapy,developmental challenges
+education|STEM Education: science labs,coding for kids,robotics kits,math competitions,engineering projects,STEM curriculum,critical thinking,computational thinking,problem-solving skills,STEM careers
+education|Arts & Humanities: liberal arts,history classes,music education,visual arts,philosophy courses,literature studies,cultural education,creative writing,performing arts,interdisciplinary learning
+education|Distance Learning: remote access education,correspondence courses,flexible schedules,online degree programs,hybrid learning,virtual attendance,distance education tools,study from home,learning portals,asynchronous classes
+education|Educational Publishing: textbooks,digital content,curriculum materials,eBooks,learning resources,educational content providers,print and digital publishing,academic publishing,instructional materials,school book publishers
+education|Learning Management Systems (LMS): course management,SCORM compliance,virtual classrooms,assessment tools,LMS integration,progress tracking,instructor dashboards,user analytics,learning paths,content hosting
+education|Early Childhood Education: preschool programs,kindergarten learning,early literacy,developmental milestones,play-based learning,child-centered approach,Montessori method,early numeracy,foundational skills,pre-primary education
+education|Adult Education: continuing education,evening classes,GED programs,second-chance education,skill-based courses,mature learners,literacy training,community college courses,professional certificates,adult learning centers
+education|Educational Assessment: student evaluation,formative assessment,summative assessment,standardized testing,diagnostic tests,academic benchmarks,performance metrics,assessment rubrics,adaptive testing,progress monitoring
+education|Technical Education: trade certification,technical institutes,engineering diplomas,IT training,machinery and tools,technical labs,applied sciences,hands-on experience,industry-aligned curriculum,technician training
+education|Tutoring Services: private tutors,one-on-one instruction,group tutoring,subject-specific help,after-school tutoring,homework help,online tutoring platforms,academic support,peer tutoring,exam preparation
+education|Curriculum Development: syllabus design,learning outcomes,instructional design,content alignment,education standards,curriculum mapping,core competencies,subject frameworks,teaching objectives,academic planning
+education|Educational Consulting: school improvement plans,curriculum advisory,institutional audits,teacher mentoring,education strategy,academic planning,regulatory compliance,school accreditation,student recruitment,operational efficiency
+education|MOOC Platforms: Coursera,edX,Udemy,open online courses,free certifications,large-scale learning,online university programs,massive enrollments,self-paced MOOCs,global education access
+education|Continuing Education: lifelong learning,post-professional courses,certification programs,weekend classes,executive education,adult re-skilling,professional upskilling,career advancement,part-time learning,refresher courses
+education|Education Policy: curriculum standards,education reforms,funding policies,education governance,policy implementation,equity in education,regulatory bodies,school accountability,public education systems,national education goals
+education|School Administration: school leadership,principal training,student enrollment systems,school budgeting,administrative efficiency,staff management,academic scheduling,parent communication,facility management,education compliance
+education|Academic Research: peer-reviewed journals,scholarly publications,research funding,university labs,interdisciplinary studies,academic conferences,research grants,citations and impact,thesis writing,experimental studies
+education|Teacher Training: pedagogy,teaching certification,classroom management,instructional techniques,teacher preparation,in-service training,teacher workshops,subject mastery,lesson planning,teacher evaluations
+education|E-learning Content Development: instructional design,digital courseware,multimedia content,content authoring tools,learning modules,video-based learning,interactive lessons,microlearning,course templates,visual storytelling
+education|Education Analytics: student performance data,learning behavior insights,academic dashboards,predictive analytics,data-driven instruction,learning outcome tracking,assessment analytics,engagement metrics,education BI tools,dropout prediction
+education|Homeschooling: parent-led instruction,custom curriculum,homeschool cooperatives,learning at home,flexible schooling,unschooling,homeschool regulations,educational freedom,portfolio assessments,alternative education
+
+
+agriculture: farming,crops,horticulture,livestock,poultry,dairy,aquaculture,organic,agrochemicals,machinery,irrigation,precision,biotech,seeds,fertilizer,pesticide,management,commodities,agritech,greenhouse,vertical,soil,finance,post-harvest,supply-chain,export,floriculture,sustainability
+
+agriculture|Crop Production: crop yield,cereal crops,cash crops,field crops,crop rotation,crop protection,farming seasons,harvesting techniques,crop productivity,staple crops
+agriculture|Horticulture: fruits and vegetables,floriculture,ornamental plants,plant nurseries,greenhouse cultivation,postharvest handling,landscape gardening,horticultural crops,controlled environment farming,polyhouse farming
+agriculture|Animal Husbandry: livestock management,cattle breeding,pasture systems,fodder cultivation,herd health,veterinary care,genetic improvement,livestock nutrition,ruminant animals,animal welfare
+agriculture|Poultry Farming: broiler chickens,layer hens,poultry feed,egg production,hatcheries,poultry diseases,vaccination schedule,poultry housing,commercial poultry farms,poultry breeding
+agriculture|Dairy Farming: milk production,dairy cattle,milking machines,dairy herd management,milk processing,dairy nutrition,cold chain for milk,AI in dairy,buffalo farming,cooperative dairies
+agriculture|Aquaculture: fish farming,shrimp culture,freshwater aquaculture,pond management,fish feed,cage culture,hatchery systems,marine aquaculture,aquaponics,water quality
+agriculture|Organic Farming: natural fertilizers,pesticide-free crops,composting,crop diversity,eco-friendly farming,sustainable inputs,organic certification,organic manure,biofertilizers,non-GMO crops
+agriculture|Agrochemicals: pesticide use,herbicides,fungicides,crop protection chemicals,chemical fertilizers,agrochemical companies,chemical safety,regulatory compliance,integrated pest management,agro-inputs
+agriculture|Agricultural Machinery: tractors,combine harvesters,seed drills,rotavators,threshers,mechanized farming,farm automation,machinery efficiency,precision seeding,machinery leasing
+agriculture|Irrigation Systems: drip irrigation,sprinkler systems,canal irrigation,water management,irrigation pumps,micro-irrigation,farm water conservation,rain-fed farming,irrigation scheduling,groundwater recharge
+agriculture|Precision Agriculture: GPS-guided tractors,satellite monitoring,yield mapping,soil sensors,variable rate technology,drone surveillance,IoT in farming,digital farming tools,precision seeding,data-driven agriculture
+agriculture|Agricultural Biotechnology: genetically modified crops,plant genetics,bioengineering,transgenic seeds,tissue culture,biotech firms,crop resistance,biofortification,gene editing,molecular breeding
+agriculture|Seed Industry: hybrid seeds,certified seeds,seed treatment,seed banks,germination rate,seed production companies,seed quality control,breeder seeds,open-pollinated seeds,varietal development
+agriculture|Fertilizers: nitrogen fertilizers,urea,NPK,organic manure,micronutrients,slow-release fertilizers,fertilizer subsidy,soil fertility,chemical inputs,balanced fertilization
+agriculture|Pesticides: insecticides,weed control,fungicides,pest resistance,chemical spraying,pesticide regulations,eco-friendly pesticides,integrated pest management,pest surveillance,bio-pesticides
+agriculture|Farm Management: farm planning,agri budgeting,crop scheduling,input cost optimization,record keeping,risk mitigation,agri business models,labor management,resource allocation,yield forecasting
+agriculture|Agricultural Commodities: grain markets,commodity pricing,futures trading,cash crops,spot markets,agricultural produce,price volatility,commodity exchanges,international agri trade,bulk procurement
+agriculture|AgriTech: smart farming,agri startups,farm management software,digital agriculture,agri drones,IoT in agriculture,data analytics in farming,AI in agriculture,crop monitoring apps,farm automation
+agriculture|Greenhouse Farming: climate-controlled farming,protected cultivation,hydroponics,humidity regulation,greenhouse structures,temperature control,high-value crops,year-round farming,CO2 enrichment,greenhouse ROI
+agriculture|Vertical Farming: stacked farming,indoor agriculture,LED lighting for crops,space-saving cultivation,soil-less farming,hydroponics/aeroponics,controlled environment,urban agriculture,vertical towers,vertical farm systems
+agriculture|Soil Health & Management: soil testing,soil fertility,pH balance,organic matter,nutrient management,erosion control,soil carbon,soil restoration,land degradation,sustainable tillage
+agriculture|Agricultural Trading: crop procurement,agri trading platforms,mandi systems,B2B agri sales,agri market access,trader-farmer linkage,MSP (Minimum Support Price),commodity trading,farmer producer organizations,agri exports
+agriculture|Agricultural Finance: farm loans,agri credit,crop insurance,NABARD,Kisan Credit Card,microfinance for farmers,input financing,warehouse receipt financing,agri investment,government subsidies
+agriculture|Post-Harvest Management: crop storage,cold chains,grain silos,drying techniques,sorting and grading,packaging solutions,value addition,agri logistics,shelf life extension,spoilage reduction
+agriculture|Agricultural Supply Chain: farm to fork,agri logistics,cold chain distribution,warehousing,procurement centers,traceability,perishables transport,contract farming,agri B2B platforms,rural supply networks
+agriculture|Agricultural Exports: export markets,international agri trade,export compliance,agri value chain,product certification,trade agreements,agri-export zones,food safety norms,export subsidies,processed agri goods
+agriculture|Floriculture: cut flowers,flower exports,ornamental plants,greenhouse flowers,flower auctions,floriculture markets,nursery management,decorative plants,seasonal blooms,floral arrangements
+agriculture|Sericulture: silk production,mulberry cultivation,silkworm rearing,raw silk export,cocoons,sericulture training,silk weaving,silk industry,traditional sericulture,rural employment
+agriculture|Apiculture: bee farming,honey production,apiaries,beehive management,pollination services,queen rearing,wax extraction,honeybee species,sustainable beekeeping,apiculture training
+agriculture|Sustainable Agriculture: regenerative farming,eco-friendly practices,water conservation,organic inputs,low carbon farming,biodiversity in farming,minimal tillage,crop-livestock integration,environmental sustainability,climate-smart agriculture
+
+
+real-estate: residential,commercial,industrial,retail,reit,property-management,development,brokerage,appraisal,financing,proptech,vacation,affordable,luxury,office,land,marketing,law,mortgage,rental,smart-buildings,coworking,analytics,urban,suburban,insurance,consulting,green,registry
+
+real-estate|Residential Real Estate: home sales,housing market,apartments,single-family homes,residential listings,home buyers,property valuation,residential zoning,suburban homes,resale market
+real-estate|Commercial Real Estate: office buildings,commercial leasing,commercial space for rent,tenant agreements,commercial brokers,investment properties,business premises,mixed-use buildings,CRE financing,commercial asset
+real-estate|Industrial Real Estate: warehouses,logistics parks,manufacturing units,industrial zones,cold storage facilities,supply chain hubs,factory properties,heavy industry land,special economic zones,distribution centers
+real-estate|Retail Real Estate: shopping malls,retail leasing,storefronts,retail tenants,anchor stores,footfall analysis,high street retail,retail property ROI,leasing agreements,franchise space
+real-estate|Real Estate Investment Trusts (REITs): listed REITs,dividend income,property-backed securities,REIT portfolio,publicly traded REITs,real estate ETFs,REIT stocks,fractional ownership,institutional investors,REIT yield
+real-estate|Property Management: rental management,tenant screening,maintenance services,lease administration,rent collection,building upkeep,occupancy management,property inspections,landlord services,facility management
+real-estate|Real Estate Development: project planning,construction permits,land development,infrastructure planning,real estate builders,site approvals,development lifecycle,feasibility analysis,urban redevelopment,project funding
+real-estate|Real Estate Brokerage: real estate agents,broker licenses,property listings,buyer-seller matchmaking,commission-based sales,brokerage firms,open houses,MLS access,negotiation services,closing coordination
+real-estate|Real Estate Appraisal: property valuation,appraisal reports,fair market value,valuation standards,home inspection,certified appraisers,appraisal techniques,income approach,comparable sales method,asset assessment
+real-estate|Real Estate Financing: home loans,mortgage lending,down payment,interest rates,loan pre-approval,construction finance,property refinancing,housing credit,EMI calculators,financing institutions
+real-estate|Real Estate Technology (PropTech): property listing platforms,digital transactions,virtual property tours,smart contracts,blockchain in real estate,AI in property search,IoT in buildings,real estate CRM,online rent payment,real estate software
+real-estate|Vacation & Resort Properties: beachfront homes,vacation rentals,second homes,timeshare properties,luxury resorts,holiday homes,rental yield,Airbnb listings,short-term lease,tourist real estate
+real-estate|Affordable Housing: low-income housing,government subsidies,PMAY,public housing schemes,housing for all,budget homes,income-based eligibility,micro housing units,social housing,inclusive development
+real-estate|Luxury Real Estate: high-end properties,premium villas,gated communities,waterfront mansions,ultra-luxury condos,celebrity homes,luxury realty market,architectural design,exclusive amenities,bespoke interiors
+real-estate|Multi-family Housing: apartment complexes,duplexes,rental communities,condominiums,townhouses,co-living spaces,HOA management,shared utilities,occupancy rates,residential tenants
+real-estate|Office Spaces: coworking hubs,executive suites,office towers,flexible workspace,office leasing,corporate headquarters,plug-and-play offices,hybrid workspaces,commercial tenants,office fit-outs
+real-estate|Land Acquisition: land parcels,title verification,zoning laws,acquisition cost,land banking,land records,government allocation,rural land deals,site due diligence,landowner negotiations
+real-estate|Real Estate Marketing: digital property ads,real estate SEO,property photography,social media marketing,virtual staging,lead generation,real estate branding,property brochures,CRM tools,online campaigns
+real-estate|Real Estate Law: property disputes,title deeds,land acquisition law,lease agreements,RERA compliance,contract law,tenancy acts,zoning regulations,legal due diligence,property inheritance
+real-estate|Mortgage Services: home financing,mortgage brokers,interest rate calculation,EMI plans,home loan approval,pre-qualification,mortgage refinancing,foreclosure process,mortgage insurance,amortization schedule
+real-estate|Rental & Leasing: rental agreements,lease terms,tenant rights,monthly rent,security deposit,furnished rentals,lease renewals,rent control,rental platforms,property occupancy
+real-estate|Smart Buildings: IoT integration,building automation,energy-efficient systems,HVAC control,smart meters,intelligent lighting,access control systems,green certifications,real-time monitoring,occupancy sensors
+real-estate|Co-working Spaces: shared office space,flexible desks,startup hubs,hot desking,co-working operators,freelancer spaces,monthly memberships,virtual offices,community events,remote work solutions
+real-estate|Real Estate Analytics: market trends,pricing analysis,property valuation tools,ROI calculation,real estate dashboards,occupancy metrics,demand forecasting,data-driven decisions,real estate KPIs,location analysis
+real-estate|Urban Real Estate: city center properties,metro development,high-rise apartments,smart cities,urban regeneration,mixed-use developments,metro connectivity,brownfield projects,compact housing,high-density zones
+real-estate|Suburban Housing: townships,suburban expansion,satellite towns,residential plots,gated colonies,commuting distance,suburban amenities,affordable land,peri-urban areas,family-oriented housing
+real-estate|Property Insurance: home insurance,building coverage,natural disaster coverage,theft protection,insurance premium,title insurance,liability protection,rental property insurance,claim processing,real estate risk management
+real-estate|Green Buildings: sustainable architecture,LEED certification,energy efficiency,solar panels,green roofs,eco-friendly materials,carbon footprint reduction,water-saving systems,passive design,smart ventilation
+real-estate|Housing Infrastructure: roads and sewage,utility connections,water supply,drainage systems,urban amenities,housing projects,public infrastructure,township planning,civic facilities,smart infrastructure
+real-estate|Real Estate Consulting: investment advisory,portfolio management,project feasibility,legal advisory,real estate audits,market entry strategy,transaction services,due diligence,zoning advisory,realty insights
+
+legal: corporate,criminal,civil,ip,employment,tax,environmental,real-estate,family,international,contract,merger,banking,insurance,immigration,media,tech,cyber,constitutional,arbitration,compliance,legal-tech,litigation,injury,bankruptcy,securities,healthcare,rights,maritime,education
+
+legal|Corporate Law: corporate governance,company formation,shareholder rights,board resolutions,director liabilities,compliance filing,M&A deals,corporate contracts,corporate restructuring,business law
+legal|Criminal Law: criminal charges,criminal defense,prosecution,bail hearings,criminal trials,evidence law,criminal code,sentencing guidelines,public defenders,criminal appeals
+legal|Civil Law: civil litigation,tort claims,breach of contract,civil suits,damages and remedies,small claims court,civil procedure,personal disputes,contract enforcement,civil appeals
+legal|Intellectual Property Law: copyright registration,trademark infringement,patent filing,IP licensing,intellectual property disputes,design protection,IP portfolio management,brand protection,WIPO,patent trolls
+legal|Employment Law: wrongful termination,workplace discrimination,labor union rights,employment contracts,wage disputes,harassment laws,non-compete agreements,severance packages,employee rights,labor regulations
+legal|Tax Law: income tax disputes,tax audits,GST/VAT compliance,international taxation,corporate tax planning,tax exemptions,tax litigation,transfer pricing,tax evasion penalties,tax treaties
+legal|Environmental Law: pollution regulations,environmental clearances,climate change law,waste management compliance,green regulations,EIA (Environmental Impact Assessment),carbon credits,wildlife protection,forest law,renewable energy law
+legal|Real Estate Law: property disputes,title verification,RERA compliance,land acquisition laws,lease agreements,housing regulations,property rights,building approvals,property taxation,tenancy disputes
+legal|Family Law: divorce proceedings,child custody,alimony,domestic violence,guardianship,prenuptial agreements,adoption laws,inheritance disputes,marriage registration,child support
+legal|International Law: treaties and conventions,extradition law,diplomatic immunity,international courts,trade law,maritime boundaries,international human rights,global arbitration,cross-border disputes,international sanctions
+legal|Contract Law: contract drafting,breach of contract,enforceability,legal clauses,indemnity agreements,contract negotiation,specific performance,force majeure,third-party rights,contract templates
+legal|Mergers & Acquisitions Law: due diligence,deal structuring,M&A contracts,asset purchase agreements,antitrust filings,share purchase deals,merger compliance,acquisition strategy,non-disclosure agreements,legal closings
+legal|Banking & Finance Law: loan agreements,financial regulations,banking compliance,secured lending,NBFC rules,fintech laws,money laundering laws,regulatory bodies,financial fraud,interest rate regulations
+legal|Insurance Law: insurance claims,insurance disputes,policy terms,claim denials,subrogation,underwriting law,motor insurance laws,liability coverage,reinsurance,insurance fraud
+legal|Immigration Law: visa applications,deportation defense,asylum law,work permits,residency status,citizenship process,green card law,immigration appeals,family-based immigration,immigration compliance
+legal|Media & Entertainment Law: licensing rights,content regulation,defamation laws,media contracts,IP in entertainment,celebrity rights,OTT platform regulations,music licensing,censorship laws,broadcast rights
+legal|Technology Law: data protection,software licensing,AI regulation,tech contracts,digital rights,SaaS agreements,online platform laws,IP in software,e-commerce law,emerging tech law
+legal|Cyber Law: cybersecurity regulations,data breach laws,cybercrime investigation,IT Act compliance,phishing & fraud laws,online harassment,digital signatures,privacy law,cyber forensics,cyberbullying laws
+legal|Constitutional Law: fundamental rights,judicial review,constitutional amendments,federalism,legal writs,constitution interpretation,PILs (Public Interest Litigations),election laws,civil liberties,constitutional bodies
+legal|Arbitration & Mediation: alternative dispute resolution,arbitration clauses,arbitral tribunal,mediation agreements,dispute settlement,conciliation,binding arbitration,ADR mechanisms,arbitration awards,negotiation law
+legal|Legal Compliance: regulatory compliance,statutory obligations,corporate filings,anti-corruption laws,audit requirements,KYC norms,whistleblower protection,legal risk assessment,FCPA compliance,internal controls
+legal|Legal Tech: contract automation,legal chatbots,AI in legal research,document management systems,e-discovery tools,virtual courtrooms,legal analytics,online dispute resolution,legal SaaS platforms,case tracking tools
+legal|Litigation: civil litigation,trial preparation,legal pleadings,courtroom advocacy,motion filing,discovery phase,appellate litigation,litigation strategy,case law research,cross-examination
+legal|Personal Injury Law: accident claims,medical malpractice,negligence lawsuits,wrongful death,injury settlements,product liability,workplace injury,pain and suffering damages,injury lawyers,personal injury compensation
+legal|Bankruptcy Law: insolvency process,debt restructuring,liquidation proceedings,creditor claims,Chapter 11 (US),NCLT (India),bankruptcy filing,insolvency code,repayment plans,financial rehabilitation
+legal|Securities Law: stock market regulation,insider trading,SEBI (India) / SEC (US),IPO compliance,investor protection,securities fraud,corporate disclosures,securities litigation,market manipulation,financial reporting standards
+legal|Healthcare Law: patient rights,medical negligence,healthcare compliance,HIPAA (US) / DPA (India),hospital regulations,drug approval law,bioethics,health insurance law,clinical trial laws,healthcare licensing
+legal|Human Rights Law: civil rights,equality before law,anti-discrimination,refugee rights,freedom of expression,UN treaties,minority protections,rights violations,women's rights law,access to justice
+legal|Maritime Law: shipping regulations,admiralty jurisdiction,marine insurance,cargo claims,port regulations,maritime contracts,international waters,ship registration,crew rights,piracy laws
+legal|Education Law: student rights,academic policies,education board regulation,teacher conduct,school safety laws,higher education law,admissions law,private school regulation,anti-bullying laws,online education standards
+
+
+hr: talent,recruitment,onboarding,performance,learning,training,compensation,payroll,engagement,planning,diversity,hr-tech,capital,organization,relations,compliance,labor,analytics,remote,branding,consulting,benefits,attendance,exit,wellness,gig,verification,change,outsourcing
+
+hr|Talent Acquisition: candidate sourcing,hiring funnel,talent pipeline,job requisition,applicant tracking system,passive candidate search,recruitment marketing,hiring strategy,headhunting,employer outreach
+hr|Recruitment: job postings,candidate screening,interview scheduling,resume shortlisting,recruiter tools,recruitment KPIs,hiring process,recruitment agencies,job fair coordination,offer letters
+hr|Employee Onboarding: induction program,new hire checklist,onboarding process,welcome kit,orientation session,onboarding software,probation period,role clarity,HR paperwork,cultural assimilation
+hr|Performance Management: KPIs,performance appraisals,360-degree feedback,goal setting,performance reviews,PIP (performance improvement plan),OKRs,manager feedback,appraisal system,performance ratings
+hr|Learning & Development: employee training,career development,learning paths,skills enhancement,L&D strategy,training programs,eLearning platforms,knowledge sharing,soft skills training,technical workshops
+hr|Training & Upskilling: reskilling programs,digital learning,on-the-job training,certification courses,training modules,instructor-led training,online learning tools,learning management system,skills gap analysis,peer learning
+hr|Compensation & Benefits: salary benchmarking,incentive plans,employee perks,benefits package,bonus structure,salary structure,equity compensation,total rewards,pay bands,variable pay
+hr|Payroll Management: payslip generation,payroll processing,tax deductions,salary disbursement,TDS filing,statutory compliance,payroll software,PF/ESI management,payroll cycle,attendance syncing
+hr|Employee Engagement: employee satisfaction,engagement surveys,team-building activities,recognition programs,feedback culture,engagement metrics,workplace morale,pulse surveys,employee voice,gamification
+hr|Workforce Planning: resource allocation,headcount forecasting,skill inventory,demand-supply gap,strategic workforce planning,workforce modeling,capacity planning,succession mapping,seasonal hiring,talent forecasting
+hr|Succession Planning: leadership pipeline,critical role identification,successor development,talent pool mapping,leadership bench strength,internal mobility,career pathing,future readiness,high-potential employees,talent continuity
+hr|Diversity & Inclusion: inclusive hiring,unconscious bias training,DEI strategy,diverse workplace,equality initiatives,gender parity,inclusive culture,accessibility in workplace,anti-discrimination policy,underrepresented groups
+hr|HR Technology (HRTech): HRMS,HR automation,AI in recruitment,HR software platforms,digital HR tools,employee self-service portal,cloud HR,people analytics,chatbot in HR,mobile HR apps
+hr|Human Capital Management: talent optimization,workforce strategy,people management,HCM software,employee lifecycle,HR business partner,workforce development,HCM analytics,organizational agility,HR transformation
+hr|Organizational Development: org design,change initiatives,culture transformation,leadership development,competency framework,OD interventions,organization alignment,strategic HRM,behavior change,OD consulting
+hr|Employee Relations: grievance handling,conflict resolution,employee discipline,union communication,workplace conduct,ER policies,employee feedback,complaint investigation,disciplinary actions,workplace mediation
+hr|HR Compliance: statutory compliance,labor law adherence,audit readiness,HR documentation,HR policy compliance,employment contracts,grievance redressal,legal HR policies,POSH compliance,regulatory updates
+hr|Labor Law: wage code,industrial disputes,trade union act,employee rights,labor regulations,compliance with labor codes,contract labor rules,factory act,working hours law,minimum wage
+hr|HR Analytics: workforce insights,predictive HR analytics,attrition analysis,data-driven HR,people dashboards,employee churn prediction,headcount reporting,real-time HR metrics,KPI tracking,talent analytics
+hr|Remote Workforce Management: remote onboarding,WFH policy,distributed team management,virtual collaboration,productivity tracking,remote engagement,flexible schedules,time zone alignment,hybrid work strategy,remote communication tools
+hr|Employer Branding: company culture promotion,Glassdoor ratings,employee testimonials,EVP (Employee Value Proposition),social hiring,employer reputation,brand ambassadors,candidate experience,branding in recruitment,culture videos
+hr|HR Consulting: HR audits,process optimization,strategic advisory,HR policy creation,talent management consulting,third-party HR services,compliance consulting,HR diagnostics,HR transformation support,compensation structuring
+hr|Benefits Administration: health benefits,wellness reimbursements,insurance management,retirement plans,leave policy,cafeteria plans,benefit claims,flexible benefits,benefits outsourcing,employee enrollment
+hr|Time & Attendance Management: biometric systems,shift planning,time tracking tools,attendance registers,leave tracking,overtime calculation,geo-fencing attendance,absence reports,T&A policies,digital punch-in
+hr|Exit Management: resignation handling,full & final settlement,knowledge transfer,exit interviews,clearance process,relieving letters,attrition analysis,separation policy,exit workflow automation,termination compliance
+hr|Employee Wellness: mental health programs,wellness initiatives,EAP (Employee Assistance Program),fitness challenges,stress management,well-being workshops,burnout prevention,meditation programs,health screenings,work-life balance
+hr|Freelance & Gig Workforce: contractor agreements,gig worker policies,freelance hiring platforms,task-based compensation,remote freelancer onboarding,gig compliance,project-based hiring,independent contractors,freelancing tax norms,temp staffing
+hr|Background Verification: reference checks,criminal record checks,employment verification,education validation,BGV agencies,document verification,address verification,onboarding background checks,third-party screening,BGV reports
+hr|Change Management: organizational change,transition planning,stakeholder alignment,change communication,change leadership,employee buy-in,transformation roadmap,resistance management,cultural shift,change readiness
+hr|HR Outsourcing: managed HR services,payroll outsourcing,third-party HR,RPO (Recruitment Process Outsourcing),outsourcing contracts,compliance outsourcing,HR vendor management,benefits administration outsourcing,HR service providers,HRBP as a service
+
+
+marketing: digital,content,social,seo,sem,email,influencer,affiliate,mobile,video,brand,product,automation,event,experiential,b2b,b2c,pr,analytics,crm,direct,guerilla,growth,performance,demand,lead,abm,outbound,inbound,strategy,segmentation
+
+marketing|Digital Marketing: digital strategy,online campaigns,cross-channel marketing,marketing funnel,digital channels,digital ads,omnichannel marketing,digital presence,ROAS,online reach
+marketing|Content Marketing: content strategy,blog writing,thought leadership,storytelling,editorial calendar,SEO content,whitepapers,case studies,content pillars,inbound content
+marketing|Social Media Marketing: social media strategy,platform engagement,hashtags,Instagram ads,TikTok marketing,LinkedIn campaigns,content calendar,community management,viral content,social media ROI
+marketing|Search Engine Optimization (SEO): keyword research,on-page SEO,backlink building,meta tags,site audit,domain authority,SERP ranking,technical SEO,mobile SEO,search visibility
+marketing|Search Engine Marketing (SEM): paid search,Google Ads,PPC campaigns,ad copies,cost-per-click,quality score,search campaigns,keyword bidding,ad extensions,conversion tracking
+marketing|Email Marketing: email list segmentation,drip campaigns,open rate,click-through rate,email automation,newsletters,A/B testing,opt-in strategy,email subject lines,lead nurturing
+marketing|Influencer Marketing: influencer outreach,brand ambassadors,sponsored posts,influencer platforms,nano influencers,affiliate codes,influencer engagement,influencer ROI,UGC (User-Generated Content),paid collaborations
+marketing|Affiliate Marketing: affiliate partners,commission model,referral traffic,affiliate tracking,payout structure,cookie duration,publisher network,affiliate platform,conversion attribution,revenue sharing
+marketing|Mobile Marketing: in-app advertising,SMS marketing,mobile push notifications,app store optimization (ASO),geofencing,responsive design,mobile-first strategy,mobile engagement,app analytics,mobile retargeting
+marketing|Video Marketing: explainer videos,product demos,video ads,YouTube SEO,video storytelling,live streaming,video engagement,video production,short-form video,video hosting platforms
+marketing|Brand Management: brand equity,brand identity,brand voice,brand positioning,brand guidelines,visual branding,brand consistency,brand awareness,rebranding,logo strategy
+marketing|Product Marketing: go-to-market strategy,product positioning,messaging framework,feature launch,user personas,product adoption,value proposition,competitive analysis,product-market fit,sales enablement
+marketing|Marketing Automation: marketing workflows,CRM integration,triggered emails,automated lead scoring,behavioral targeting,automation platforms,customer journeys,retargeting automation,campaign scheduling,auto responders
+marketing|Event Marketing: virtual events,trade shows,event registration,event promotions,webinars,event sponsorship,booth setup,pre-event engagement,event ROI,post-event follow-up
+marketing|Experiential Marketing: brand activations,live experiences,immersive events,sampling campaigns,pop-up stores,interactive booths,sensory branding,customer interaction,event design,real-world engagement
+marketing|B2B Marketing: enterprise leads,long sales cycles,decision-makers,B2B platforms,industry-specific content,lead nurturing,account targeting,B2B demand gen,sales alignment,technical content
+marketing|B2C Marketing: customer engagement,consumer behavior,product promotions,lifestyle marketing,seasonal campaigns,impulse buying triggers,direct-to-consumer (DTC),social proof,influencer collabs,loyalty programs
+marketing|Public Relations (PR): press releases,media outreach,brand reputation,crisis communication,PR campaigns,media kits,journalist relations,earned media,public statements,corporate communication
+marketing|Marketing Analytics: campaign tracking,data-driven insights,dashboard reporting,ROI measurement,KPIs,customer insights,web analytics,attribution modeling,funnel analysis,performance metrics
+marketing|Customer Relationship Management (CRM): contact management,customer segmentation,sales pipeline,customer journey,CRM tools,CRM automation,lead tracking,lifecycle management,customer retention,CRM analytics
+marketing|Direct Marketing: direct mail,telemarketing,SMS campaigns,flyer distribution,catalog marketing,door-to-door sales,personalization,response rate,contact database,direct offers
+marketing|Guerilla Marketing: unconventional campaigns,flash mobs,urban advertising,street art marketing,low-budget high-impact,viral stunts,word-of-mouth triggers,creative publicity,experiential tactics,shock marketing
+marketing|Growth Marketing: growth hacks,rapid experimentation,funnel optimization,A/B testing,referral loops,user acquisition,retention strategies,conversion rate,product-led growth,growth metrics
+marketing|Performance Marketing: ROI-focused campaigns,CPC/CPA models,paid media optimization,conversion tracking,ROAS analysis,data attribution,performance metrics,KPI dashboards,digital spend,programmatic ads
+marketing|Demand Generation: top-of-funnel campaigns,awareness creation,intent data,nurturing sequences,buyer journey mapping,demand capture,thought leadership content,webinar lead gen,pipeline generation,MQL to SQL conversion
+marketing|Lead Generation: gated content,lead magnets,signup forms,contact capture,B2B lead tools,lead scoring,opt-in campaigns,landing pages,outbound prospecting,lead qualification
+marketing|Account-Based Marketing (ABM): target account lists,personalized campaigns,one-to-one marketing,ABM platforms,sales & marketing alignment,intent data targeting,account engagement,named accounts,ABM funnels,high-value accounts
+marketing|Outbound Marketing: cold emailing,outbound calls,display ads,trade shows,direct response ads,outbound prospecting,outbound sales alignment,retargeting,traditional marketing,cold outreach
+marketing|Inbound Marketing: organic traffic,content funnel,SEO blogging,educational content,lead nurturing,free resources,value-driven campaigns,inbound lead gen,opt-in journeys,trust-building
+marketing|Marketing Strategy: GTM (Go-To-Market),segmentation targeting,market research,positioning strategy,SWOT analysis,customer journey mapping,budget planning,brand architecture,competitive analysis,multi-channel planning
+Marketing|Media: Media Planning, Media Buying, Advertising Channels, Paid Media, Earned Media, Owned Media, Broadcast Media, Print Media, Digital Media, Media Mix, Programmatic Advertising, CPM (Cost Per Mille), CTR (Click-Through Rate), GRP (Gross Rating Point), Media Analytics, Ad Inventory, Media Partners, Cross-Channel Campaigns, Media Budgeting, Media Strategy
+
+
+government: administration,policy,law,enforcement,defense,safety,taxation,immigration,infrastructure,transportation,health,environment,urban,social,e-government,disaster,regulatory,foreign,trade,labor,census,judiciary,legislative,public-sector,state,central,procurement,public-finance
+
+government|Public Administration: civil services,government departments,administrative reform,public service delivery,bureaucratic management,public sector policies,governance structures,public institutions,administrative law,policy implementation
+government|Policy Making: policy framework,legislation drafting,public consultation,policy research,evidence-based policy,strategic planning,regulatory impact,government white papers,socio-economic policy,policy evaluation
+government|Law Enforcement: police services,crime prevention,criminal investigation,law and order,policing strategy,patrol units,public security,forensic services,traffic enforcement,crime reporting
+government|Defense & Military: armed forces,military operations,defense procurement,national security,military training,strategic command,defense budget,border security,counterterrorism,military infrastructure
+government|Public Safety: emergency response,disaster resilience,fire services,civil protection,safety regulations,crisis communication,community safety,hazard prevention,search and rescue,incident management
+government|Taxation & Revenue: income tax,tax compliance,GST/VAT,tax collection,revenue services,tax audits,indirect taxes,direct taxes,tax refunds,tax evasion control
+government|Immigration Services: visa processing,border control,refugee programs,immigration laws,migration policy,work permits,naturalization,residency permits,asylum services,deportation procedures
+government|Infrastructure Development: public infrastructure,road construction,urban utilities,infrastructure funding,transport networks,public-private partnership,smart cities,rural development,bridges and highways,infrastructure planning
+government|Transportation Services: public transport,railways,roadways,air transport policy,metro projects,transport safety,vehicle registration,traffic control,logistics infrastructure,mobility planning
+government|Health & Human Services: public health programs,vaccination drives,medical aid,rural healthcare,health policy,social services,family welfare,government hospitals,health insurance schemes,health awareness campaigns
+government|Environmental Regulation: pollution control,environmental laws,climate policy,forest protection,water conservation,biodiversity regulation,emission standards,sustainable development,green initiatives,waste management
+government|Urban Planning: city zoning,smart city projects,municipal development,housing schemes,land use policy,infrastructure planning,slum rehabilitation,transit-oriented development,public utilities,urban governance
+government|Social Welfare: pension schemes,child welfare,disability benefits,poverty alleviation,old age support,welfare distribution,social inclusion,women empowerment programs,rural welfare,income support
+government|Education Services: public schooling,curriculum development,literacy programs,education policy,school infrastructure,teacher training,government colleges,free education schemes,student welfare,digital learning platforms
+government|Energy Regulation: electricity regulation,renewable energy policy,energy tariffs,power distribution,fuel subsidies,energy security,grid management,coal and gas policy,energy audits,clean energy initiatives
+government|Public Finance: budget planning,fiscal policy,government expenditure,subsidies,public debt,treasury operations,budget deficit,financial audits,public accounts,capital expenditure
+government|Government Procurement: e-tendering,bidding process,vendor registration,procurement policy,government contracts,tender management,public purchasing,procurement compliance,procurement transparency,supply chain in public sector
+government|E-Governance: digital government services,online portals,citizen services,IT in governance,Aadhaar integration,digital identity,paperless governance,government apps,RTI online,e-services accessibility
+government|Disaster Management: emergency planning,relief operations,disaster response,risk mitigation,NDMA coordination,post-disaster recovery,crisis mapping,shelter management,early warning systems,contingency planning
+government|Regulatory Agencies: statutory bodies,compliance enforcement,industry regulation,regulatory frameworks,licensing authorities,watchdog agencies,regulatory reform,oversight commissions,public grievances,code enforcement
+government|Foreign Affairs: diplomacy,international relations,embassies,bilateral talks,global trade agreements,foreign aid,geopolitical strategy,diplomatic missions,foreign policy agenda,multilateral cooperation
+government|Trade & Commerce: import-export policy,trade licenses,tariffs and duties,foreign trade agreements,business registration,trade facilitation,customs regulation,commercial taxes,export promotion,MSME support
+government|Labor & Employment Services: job schemes,employment exchange,labor rights,wage regulation,skill development,worker protection,minimum wage enforcement,employment benefits,labor inspections,unemployment programs
+government|Census & Statistics: population census,demographic data,NSSO surveys,statistical indicators,economic data collection,data analysis,government statistics,household surveys,policy data support,census planning
+government|Judicial Services: courts and tribunals,legal aid,judiciary reform,e-courts,judicial appointments,legal proceedings,case management,legal infrastructure,judicial training,public litigation
+government|Legislative Services: parliamentary sessions,bill drafting,legislative debates,committee meetings,lawmaking process,legislative research,constitutional amendments,MP/MLA services,legislative records,government gazette
+government|Local Government: municipal bodies,panchayat services,ward administration,local tax collection,sanitation services,city councils,grassroots governance,rural electrification,water supply,local development plans
+government|State Government: state budget,state-level schemes,state administration,regional development,CM office,state departments,state police,revenue collection,agriculture schemes,state education boards
+government|Central/Federal Government: central ministries,national programs,union budget,parliamentary affairs,central departments,nationwide schemes,tax collection,defense services,monetary policy,apex institutions
+government|Public Sector Undertakings (PSUs): government-owned corporations,PSU recruitment,industrial PSUs,PSU disinvestment,Navratna companies,PSU audits,corporate governance,PSU boards,sector-specific PSUs,public sector efficiency
+
+
+hospitality: hotel,resort,restaurant,cafe,bar,catering,event,tourism,cruise,spa,rental,boutique,tech,food,conference,training,management,staff,guest,facility,lodging,luxury,budget,airline,theme-park,consulting,timeshare,eco,heritage,casino
+
+hospitality|Hotels: hotel booking,room service,luxury suites,hotel amenities,accommodation deals,hotel chains,star rating,hotel concierge,check-in process,hotel loyalty programs
+hospitality|Resorts: beach resorts,mountain retreats,all-inclusive packages,spa resorts,resort activities,destination resorts,resort accommodations,family-friendly resorts,wellness retreats,resort bookings
+hospitality|Restaurants: fine dining,casual dining,menu planning,food service,restaurant reservations,chef specials,dining experience,culinary trends,food plating,restaurant reviews
+hospitality|Cafes: coffee shops,espresso menu,cafe culture,baked goods,cozy ambiance,specialty coffees,latte art,cafe seating,small plates,brunch menus
+hospitality|Bars & Pubs: cocktail bars,happy hour,bartending,pub grub,nightlife venues,drink menu,craft beer,bar ambiance,sports bar,lounge bar
+hospitality|Catering Services: event catering,buffet setup,wedding catering,menu customization,corporate catering,on-site catering,plated service,catering staff,food presentation,catering logistics
+hospitality|Event Management: event planning,venue booking,wedding coordination,conference setup,guest management,event logistics,event decoration,AV services,vendor coordination,event promotion
+hospitality|Travel & Tourism: tour packages,travel itineraries,destination guides,travel booking,tourism boards,guided tours,cultural tourism,adventure travel,tourism campaigns,holiday planning
+hospitality|Cruise Lines: cruise booking,onboard entertainment,ocean liners,cruise packages,port excursions,luxury cruises,cruise deals,cabin selection,cruise destinations,ship amenities
+hospitality|Spas & Wellness Centers: spa treatments,wellness retreats,massage therapy,beauty services,holistic healing,relaxation therapies,aromatherapy,spa packages,skin treatments,health spas
+hospitality|Vacation Rentals: short-term rentals,Airbnb alternatives,private stays,rental homes,holiday villas,furnished apartments,property listings,seasonal rentals,rental policies,guest reviews
+hospitality|Boutique Hotels: personalized service,unique decor,themed rooms,small luxury hotels,curated experiences,local flavor,exclusive accommodations,designer interiors,boutique charm,hidden gems
+hospitality|Hospitality Technology: hotel software,property management system (PMS),guest apps,contactless check-in,restaurant POS,AI in hospitality,booking engines,digital concierge,smart rooms,hotel CRM
+hospitality|Food & Beverage Services: F&B operations,menu engineering,kitchen management,beverage inventory,food safety,bar services,nutrition labeling,dining trends,meal prep,supplier sourcing
+hospitality|Conference & Convention Centers: event halls,business events,trade shows,seminar spaces,AV setup,seating plans,corporate hospitality,catering packages,conference bookings,facility layout
+hospitality|Hospitality Training & Education: hospitality courses,culinary schools,hotel management programs,service etiquette training,F&B training,hospitality certifications,online hospitality courses,soft skills training,hospitality degrees,practical workshops
+hospitality|Hotel Management: front desk operations,housekeeping management,revenue management,room occupancy,hotel staff scheduling,guest satisfaction,hospitality leadership,operational efficiency,budgeting and forecasting,standard operating procedures
+hospitality|Hospitality Staffing: hotel recruitment,temp staffing,chef hiring,housekeeping staff,service crew,HR for hospitality,staffing agencies,job fairs,seasonal hiring,staffing software
+hospitality|Guest Services: concierge service,luggage assistance,guest feedback,personalized experience,welcome amenities,in-room dining,guest relations,service recovery,24/7 support,hospitality desk
+hospitality|Facility Management: building maintenance,HVAC systems,energy efficiency,housekeeping schedules,sanitation protocols,safety compliance,utility management,pest control,elevator maintenance,property upkeep
+hospitality|Lodging: overnight stays,bed and breakfast,short-term lodging,travel accommodations,hostel bookings,lodging rates,guest check-in,extended stays,occupancy rates,lodging regulations
+hospitality|Luxury Hospitality: five-star service,premium amenities,VIP guests,luxury suites,fine dining experiences,private concierge,high-end decor,exclusive packages,elite clientele,personalized luxury
+hospitality|Budget Hospitality: budget stays,affordable hotels,hostel accommodation,economy lodging,low-cost travel,deals and discounts,essential services,value-for-money,no-frills booking,compact rooms
+hospitality|Airline Hospitality: in-flight meals,cabin crew services,premium lounge access,check-in experience,onboard entertainment,travel class amenities,airline partnerships,baggage handling,flight attendants,comfort kits
+hospitality|Theme Parks & Attractions: amusement rides,ticketing systems,theme park hotels,food concessions,attraction bookings,crowd control,park safety,visitor experience,family packages,interactive exhibits
+hospitality|Hospitality Consulting: hotel audits,F&B consulting,guest experience optimization,branding strategy,market analysis,revenue growth plans,operational assessment,digital transformation,property development advice,franchise consulting
+hospitality|Timeshare Services: vacation ownership,timeshare rentals,fractional ownership,exchange programs,resort networks,timeshare resales,legal services,timeshare agreements,member benefits,long-term vacation plans
+hospitality|Eco-Tourism: sustainable travel,eco-lodges,green hotels,carbon footprint reduction,nature tours,environmental education,conservation tourism,eco-friendly amenities,community-based tourism,wildlife experiences
+hospitality|Heritage & Cultural Hospitality: heritage hotels,cultural experiences,traditional architecture,historical tours,folk performances,cultural cuisine,local crafts,heritage preservation,destination storytelling,immersive stays
+hospitality|Casino & Gaming Hospitality: casino resorts,gaming lounges,slot machines,live tables,high-roller suites,entertainment shows,VIP gaming,casino restaurants,gaming regulations,player rewards
+
+
+insurance: policy,claim,risk,cover,premium,brokerage,actuarial,underwriting,loss,renewal,portfolio,fraud,payout,compliance,reinsurance,cyber,product,liability,catastrophe,surplus,reporting,analytics,distribution,regulation,settlement,protection,deductible,warranty,asset,insurance-tech
+
+insurance|Life Insurance: term life,whole life policy,life cover,policy maturity,death benefit,premium plans,insurance beneficiaries,cash value,life insurance quotes,life assurance
+insurance|Health Insurance: medical coverage,health premiums,hospitalization benefit,pre-existing condition,OPD coverage,wellness benefits,cashless hospitals,health insurance plans,policy exclusions,critical illness cover
+insurance|Auto Insurance: car insurance,motor insurance,vehicle damage,third-party liability,no-claim bonus,accident coverage,premium calculation,driving history,insurance for EVs,motor policy renewal
+insurance|Home Insurance: property protection,natural disaster cover,home structure policy,theft protection,building insurance,fire and flood coverage,home contents,renters insurance,home insurance premium,rebuild cost estimate
+insurance|Travel Insurance: trip cancellation,lost baggage,overseas medical,emergency evacuation,travel delay,insurance for visa,international travel policy,travel assistance,travel insurance quotes,multi-trip plans
+insurance|Property Insurance: asset protection,commercial property cover,fire and theft insurance,property valuation,real estate insurance,landlord policy,rental property coverage,building and content,policy limits,risk evaluation
+insurance|Commercial Insurance: business interruption,liability protection,commercial auto policy,general business cover,property damage,small business insurance,office insurance,product liability,corporate risk,business continuity
+insurance|Liability Insurance: public liability,professional indemnity,employer’s liability,product liability,legal protection,negligence claims,liability risk,third-party insurance,lawsuit coverage,coverage limits
+insurance|Marine Insurance: cargo coverage,hull insurance,shipping risk,freight insurance,port-to-port coverage,ocean transit,marine liability,maritime law,import/export insurance,transit loss
+insurance|Crop Insurance: farmer protection,agricultural risk,yield-based coverage,weather-indexed plans,government subsidy,natural calamities,seasonal crops,claim settlement,pest damage cover,rural insurance
+insurance|Reinsurance: risk sharing,treaty reinsurance,facultative reinsurance,retrocession,reinsurance brokers,capital management,reinsurer networks,catastrophe coverage,loss portfolio transfer,reinsurance treaty
+insurance|Pet Insurance: vet bills coverage,accident and illness,routine checkups,breed-specific plans,pet wellness,vaccination cover,pet hospitalization,pet insurance quotes,pre-existing condition,animal health
+insurance|Fire Insurance: fire damage cover,smoke damage,fire liability,residential fire insurance,industrial fire risks,risk mitigation,premium fire policies,emergency services,fire protection systems,arson risk coverage
+insurance|Term Insurance: fixed term policy,low premium,pure protection,term plan quotes,no maturity value,high sum assured,death payout,online term plans,limited pay term,return of premium
+insurance|Whole Life Insurance: lifelong coverage,cash value growth,permanent life plan,guaranteed payout,fixed premiums,estate planning,long-term benefit,savings component,whole life quotes,family protection
+insurance|Group Insurance: employer benefits,group health policy,bulk premiums,employee wellness,coverage extension,group term life,corporate insurance,cost-sharing plans,staff protection,member eligibility
+insurance|Dental Insurance: dental procedures,root canal coverage,preventative care,oral exams,dental networks,annual maximum,dental implants,orthodontic cover,teeth cleaning,copay and deductibles
+insurance|Vision Insurance: eye exams,prescription glasses,contact lenses,optometrist visits,LASIK discounts,vision network,frame allowance,lens replacement,vision checkup,coverage limitations
+insurance|Cyber Insurance: data breach coverage,ransomware protection,cyber liability,digital asset loss,network security,cybercrime response,incident reporting,cyber extortion,business interruption,IT infrastructure risk
+insurance|Title Insurance: property ownership,legal title search,defect coverage,title disputes,escrow services,home buying,real estate law,buyer protection,title deed insurance,title clearance
+insurance|Mortgage Insurance: home loan protection,lender insurance,down payment support,mortgage default,borrower coverage,private mortgage insurance (PMI),loan-to-value ratio,foreclosure cover,policy duration,housing finance
+insurance|Workers’ Compensation Insurance: employee injury,workplace accidents,wage replacement,employer liability,rehabilitation costs,occupational hazard,medical benefits,workers’ safety,compensation claims,legal requirements
+insurance|Insurance Brokerage: policy comparison,insurance agents,brokerage commission,client advisory,custom policy planning,risk consultancy,multi-insurer access,claim assistance,policy renewal,licensed broker
+insurance|Insurance Underwriting: risk evaluation,premium calculation,policy approval,underwriting guidelines,applicant screening,actuarial input,automated underwriting,underwriting criteria,risk-based pricing,proposal assessment
+insurance|Insurance Claims Management: claim filing,documentation process,settlement tracking,claims adjuster,claim fraud detection,claim payout timelines,TPA services,claim dispute resolution,policyholder support,online claim submission
+insurance|Insurance Technology (InsurTech): digital insurance platforms,online policy issuance,AI in underwriting,claims automation,telematics insurance,mobile insurance apps,usage-based insurance,blockchain for claims,chatbot support,real-time data analytics
+insurance|Insurance Consulting: risk advisory,regulatory compliance,process improvement,product development,digital transformation,reinsurance strategies,actuarial consulting,market analysis,insurer partnerships,technology adoption
+insurance|Risk Assessment: risk profiling,threat identification,exposure evaluation,loss prediction,risk rating,insurance score,portfolio risk,data modeling,risk mitigation,probability analysis
+insurance|Actuarial Services: mortality tables,statistical modeling,premium projections,reserve calculations,risk forecasts,insurance mathematics,loss distribution,financial reporting,actuarial valuation,solvency analysis
+insurance|Insurance Compliance: IRDAI regulations,legal frameworks,policy adherence,AML guidelines,KYC requirements,compliance audits,regulatory reporting,ethics in insurance,internal controls,insurance governance
+
+
+technology: it,software,hardware,ai,ml,cloud,cyber,science,bigdata,iot,blockchain,robotics,ar,vr,web,mobile,devops,infrastructure,networking,saas,paas,iaas,quantum,edge,5g,semiconductor,support,consulting,outsourcing,training
+
+technology|Information Technology (IT): IT services,enterprise IT,system integration,IT infrastructure,IT strategy,managed IT,information systems,digital transformation,IT governance,network administration
+technology|Software Development: software engineering,coding frameworks,application development,agile methodology,SDLC (Software Development Life Cycle),full stack development,software deployment,version control,debugging tools,custom software
+technology|Hardware & Devices: computer hardware,IoT devices,chipsets,embedded systems,processors,hardware testing,device compatibility,semiconductors,sensors and circuits,tech gadgets
+technology|Artificial Intelligence (AI): neural networks,natural language processing (NLP),AI models,predictive analytics,computer vision,generative AI,intelligent systems,machine intelligence,AI algorithms,ethical AI
+technology|Machine Learning: supervised learning,unsupervised learning,ML models,model training,feature engineering,ML pipelines,classification algorithms,regression analysis,model evaluation,scikit-learn
+technology|Cloud Computing: cloud services,cloud migration,hybrid cloud,public cloud,AWS / Azure / Google Cloud,cloud storage,scalability,serverless computing,cloud security,virtualization
+technology|Cybersecurity: threat detection,network security,penetration testing,ransomware protection,endpoint security,firewall configuration,data encryption,security audits,cyber resilience,identity and access management
+technology|Data Science: data analysis,data cleaning,predictive modeling,data pipelines,Python for data science,data mining,business intelligence,data storytelling,statistical analysis,data visualization
+technology|Big Data: Hadoop,data lakes,Spark framework,real-time analytics,unstructured data,distributed systems,NoSQL databases,big data architecture,batch processing,big data tools
+technology|Internet of Things (IoT): smart devices,connected sensors,industrial IoT (IIoT),IoT protocols,edge devices,real-time data collection,IoT platforms,embedded systems,IoT security,remote monitoring
+technology|Blockchain: decentralized ledger,smart contracts,crypto tokens,distributed systems,blockchain wallet,permissioned blockchain,Ethereum / Solana,mining and consensus,NFT platforms,blockchain nodes
+technology|Robotics: autonomous robots,robotic arms,automation systems,robot operating system (ROS),humanoid robots,industrial robotics,robotic process automation (RPA),path planning,robotics hardware,sensor integration
+technology|Augmented Reality (AR): AR applications,AR glasses,marker-based AR,AR development kits,3D overlays,AR experiences,AR in retail,real-time interaction,augmented interfaces,immersive tech
+technology|Virtual Reality (VR): VR headsets,3D simulation,immersive experience,VR gaming,virtual environments,VR development tools,spatial computing,VR interaction,training simulation,virtual worlds
+technology|Web Development: front-end frameworks,backend development,web design,responsive websites,JavaScript/HTML/CSS,content management systems (CMS),web hosting,API integration,SEO optimization,progressive web apps (PWAs)
+technology|Mobile App Development: Android/iOS apps,Flutter / React Native,mobile UI/UX,app publishing,mobile SDKs,native app development,mobile APIs,cross-platform apps,mobile performance,mobile push notifications
+technology|DevOps: continuous integration (CI),continuous delivery (CD),automation tools,containerization,Docker / Kubernetes,infrastructure as code (IaC),version control,build pipelines,DevSecOps,agile DevOps
+technology|IT Infrastructure: data centers,servers and storage,infrastructure monitoring,virtualization platforms,enterprise networking,disaster recovery,IT architecture,hybrid infrastructure,on-premise vs cloud,infrastructure scalability
+technology|Networking: network topology,LAN / WAN,routers and switches,network security,VPN configuration,IP addressing,wireless networking,network protocols,bandwidth optimization,network monitoring tools
+technology|SaaS (Software as a Service): cloud-based apps,subscription model,SaaS platforms,web-based software,user onboarding,SaaS analytics,multi-tenant architecture,SaaS billing,customer retention,scalability in SaaS
+technology|PaaS (Platform as a Service): development platforms,application hosting,PaaS providers,runtime environment,scalable architecture,dev tools integration,middleware services,deployment automation,database as a service,cloud platforms
+technology|IaaS (Infrastructure as a Service): virtual machines,cloud infrastructure,data center management,IaaS providers,dynamic scaling,resource provisioning,server configuration,networking and storage,infrastructure APIs,pay-per-use billing
+technology|Quantum Computing: qubits,quantum gates,quantum entanglement,quantum supremacy,quantum circuits,quantum simulators,quantum cryptography,quantum hardware,superposition states,quantum algorithms
+technology|Edge Computing: edge devices,low-latency processing,real-time analytics,decentralized computing,fog computing,edge AI,network edge,IoT at the edge,local data processing,latency reduction
+technology|5G Technology: 5G networks,ultra-low latency,high-speed internet,mmWave spectrum,network slicing,5G-enabled IoT,mobile broadband,5G devices,telecom infrastructure,real-time connectivity
+technology|Semiconductor Technology: silicon wafers,chip design,fabless manufacturing,semiconductor fabs,transistor architecture,nanoelectronics,chip fabrication,photolithography,SoC (System on Chip),semiconductor materials
+technology|Tech Support Services: technical helpdesk,remote support,hardware troubleshooting,software assistance,customer support tickets,SLA compliance,desktop support,issue resolution,user training,system upgrades
+technology|Technology Consulting: digital strategy,IT advisory,tech implementation,solution architecture,systems integration,cloud adoption,cybersecurity audits,process automation,innovation planning,IT cost optimization
+technology|IT Outsourcing: offshore IT services,outsourcing contracts,IT staff augmentation,BPO/ITeS,third-party vendors,managed services,remote development teams,global delivery model,outsourcing risks,cost-effective IT
+technology|Tech Education & Training: coding bootcamps,e-learning platforms,IT certifications,online tech courses,digital literacy,tech upskilling,corporate IT training,learning management systems (LMS),hands-on labs,developer education

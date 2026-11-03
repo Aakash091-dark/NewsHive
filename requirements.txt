@@ -1,0 +1,27 @@
+boto3
+python-json-logger
+python-dotenv
+feedparser
+requests
+stem
+beautifulsoup4
+chardet
+langchain_aws
+faiss-cpu
+psycopg2-binary
+termcolor
+google-cloud-discoveryengine
+google-api-core
+datefinder
+PySocks
+tenacity
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+numpy
+scikit-learn
+einops
+Pillow
+sentence-transformers
+playwright
+httpx
+httpx-socks
